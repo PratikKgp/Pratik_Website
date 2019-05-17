@@ -65,6 +65,7 @@ code {
 
 .myapp-Menu {
   position: fixed;
+  z-index: 100;
 }
 
 .my-app-education {
